@@ -1,0 +1,2 @@
+# Understanding-Core-ML-Concepts-Training-Optimization-Regularization-and-Model-Interpretability
+ This project is an interactive web dashboard built using Flask that allows users to understand how machine learning models train and behave. The main goal is to visualize the core concepts of ML, such as training behavior, overfitting, regularization, and feature importance, in a clear and accessible way.
